@@ -1,0 +1,1 @@
+Este projeto está sendo realizado para fixar o conhecimento adquirido no curso Git e Github - One Bit Code: programador fullstack JS
