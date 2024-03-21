@@ -1,0 +1,1 @@
+Neste módulo do curso, foi ensinado os principais comandos do Git, como utilizá-los, e também, como utilizar o Github.
